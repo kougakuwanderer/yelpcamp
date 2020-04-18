@@ -18,7 +18,7 @@
     "bull": "^3.13.0",
     "connect-flash": "^0.1.1",
     "cors": "^2.8.5",
-    "ejs": "^2.3.4",
+    "ejs": "^2.5.5",
     "express": "^4.13.3",
     "express-session": "^1.11.3",
     "method-override": "^2.3.5",
